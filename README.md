@@ -1,2 +1,2 @@
-# exercism_haskell
-learn haskell by solving exercism
+# haskell_learning_by_doing
+Learning Haskell by Doing Haskell
